@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiprueba1", "WebApiprueba1\WebApiprueba1.csproj", "{77A973C3-1091-4D9D-9CC5-1E88E5EAE6BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{D4A34716-A29F-4128-926A-6F8ECCA18235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A973C3-1091-4D9D-9CC5-1E88E5EAE6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A973C3-1091-4D9D-9CC5-1E88E5EAE6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A973C3-1091-4D9D-9CC5-1E88E5EAE6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A973C3-1091-4D9D-9CC5-1E88E5EAE6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A34716-A29F-4128-926A-6F8ECCA18235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A34716-A29F-4128-926A-6F8ECCA18235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A34716-A29F-4128-926A-6F8ECCA18235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A34716-A29F-4128-926A-6F8ECCA18235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9031764-6B61-484D-B9D1-DA103E8815DC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,74 @@
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\appsettings.json
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.exe
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.deps.json
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.runtimeconfig.json
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.pdb
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.csproj.AssemblyReference.cache
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.AssemblyInfoInputs.cache
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.AssemblyInfo.cs
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.csproj.CoreCompileInputs.cache
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets\msbuild.WebApiprueba1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApiprueba1.props
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApiprueba1.props
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApiprueba1.props
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\scopedcss\bundle\WebApiprueba1.styles.css
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.csproj.CopyComplete
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\refint\WebApiprueba1.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.pdb
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.genruntimeconfig.cache
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\ref\WebApiprueba1.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\NLog.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\RestSharp.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Negocio.dll
+C:\Users\LN\source\repos\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Negocio.pdb
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\appsettings.json
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.exe
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.deps.json
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.runtimeconfig.json
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\WebApiprueba1.pdb
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\NLog.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\RestSharp.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Negocio.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\bin\Debug\net7.0\Negocio.pdb
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.csproj.AssemblyReference.cache
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.AssemblyInfoInputs.cache
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.AssemblyInfo.cs
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.csproj.CoreCompileInputs.cache
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets\msbuild.WebApiprueba1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApiprueba1.props
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApiprueba1.props
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApiprueba1.props
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\scopedcss\bundle\WebApiprueba1.styles.css
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.csproj.CopyComplete
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\refint\WebApiprueba1.dll
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.pdb
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\WebApiprueba1.genruntimeconfig.cache
+C:\Users\sebic\OneDrive\Escritorio\repositorios para git\repo tp api programacion\WebApiprueba1\WebApiprueba1\WebApiprueba1\obj\Debug\net7.0\ref\WebApiprueba1.dll
