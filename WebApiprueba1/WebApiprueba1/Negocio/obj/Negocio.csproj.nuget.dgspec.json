@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sebic\\OneDrive\\Escritorio\\repositorios para git\\repo tp api programacion\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {}
+    "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sebic\\OneDrive\\Escritorio\\repositorios para git\\repo tp api programacion\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {
+    "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebic\\OneDrive\\Escritorio\\repositorios para git\\repo tp api programacion\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "C:\\Users\\sebic\\OneDrive\\Escritorio\\repositorios para git\\repo tp api programacion\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
-        "packagesPath": "C:\\Users\\sebic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebic\\OneDrive\\Escritorio\\repositorios para git\\repo tp api programacion\\WebApiprueba1\\WebApiprueba1\\Negocio\\obj\\",
+        "projectPath": "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
+        "packagesPath": "C:\\Users\\LN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sebic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

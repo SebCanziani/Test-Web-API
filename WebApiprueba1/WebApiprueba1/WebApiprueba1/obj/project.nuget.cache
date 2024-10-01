@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "fgP8I+MT2t8C4QCZ5xwyNRs9ZrG8OrCirVfI3mip98R9DWKNIo2lq0zRee8B35m3oVjtSRmULireK9jNI198Eg==",
+  "dgSpecHash": "v3YE1ZhJFT4LGBiLTMsv0qb2bzYtt1fEc7TIGuOWymKqczemySkXBrc3FBGiBapaGkRcgfxd1ETnV9Kf9faHrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebic\\OneDrive\\Escritorio\\repositorios para git\\repo tp api programacion\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1.csproj",
+  "projectFilePath": "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sebic\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
-    "C:\\Users\\sebic\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\sebic\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\sebic\\.nuget\\packages\\nlog\\5.3.3\\nlog.5.3.3.nupkg.sha512",
-    "C:\\Users\\sebic\\.nuget\\packages\\restsharp\\111.4.1\\restsharp.111.4.1.nupkg.sha512",
-    "C:\\Users\\sebic\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\sebic\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\sebic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\sebic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "C:\\Users\\LN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\LN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\LN\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\LN\\.nuget\\packages\\nlog\\5.3.3\\nlog.5.3.3.nupkg.sha512",
+    "C:\\Users\\LN\\.nuget\\packages\\restsharp\\111.4.1\\restsharp.111.4.1.nupkg.sha512",
+    "C:\\Users\\LN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\LN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\LN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\LN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
   "logs": []
 }

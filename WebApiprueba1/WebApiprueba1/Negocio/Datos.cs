@@ -10,7 +10,11 @@ namespace Negocio
     {
         public static List<Producto> List = new List<Producto>()
         {
-            new Producto() { Id = 1, Description = "verde", Name = "marcos" }
+            new Producto() { Id = 1, Description = "verde", Name = "marcos" }, 
+            
+            new Producto() { Id = 14, Description = "rosa", Name = "juliana" },
+
+             new Producto() { Id = 33, Description = "azul", Name = "jose" },
 
         };
 

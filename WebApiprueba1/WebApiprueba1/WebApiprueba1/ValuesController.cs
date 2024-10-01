@@ -8,33 +8,54 @@ namespace WebApiprueba1
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
-    {
+    { 
+        
+        
+        
+        ProductosApi productosApi = new ProductosApi();
+
+
         // GET: api/<ValuesController>
         [HttpGet]
-        public List<Producto> Get()
-
-            
+        public IActionResult Get()
         {
+            try
+            {
+                var productos = productosApi.GetAll();
 
-            ProductosApi productosApi = new ProductosApi();
-            var products = productosApi.GetAll();
+                if (productos == null || !productos.Any())
+                {
+                    return NoContent(); // 204 No Content no hay productos
+                }
 
-            return products;
-
-            /* La opción simplificada
-             
-                ProductosApi productosApi = new ProductosApi();
-                return productosApi.GetAll();
-
-             */
+                return Ok(productos); // 200 OK
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message); // Devuelve 400 Bad Request con el mensaje de la excepción
+            }
         }
 
         // GET api/<ValuesController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public IActionResult Get(int id)
         {
-            return "value";
+            try
+            {
+                var producto = productosApi.GetById(id);
+
+                if (producto == null)
+                {
+                    return NotFound(); 
+                }
+                return Ok(producto); 
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message); 
+            }
         }
+
 
         // POST api/<ValuesController>
         [HttpPost]
