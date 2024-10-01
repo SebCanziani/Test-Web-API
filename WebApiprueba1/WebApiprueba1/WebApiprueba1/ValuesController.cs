@@ -59,9 +59,24 @@ namespace WebApiprueba1
 
         // POST api/<ValuesController>
         [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
+    
+            public IActionResult Post([FromBody] Producto producto)
+            {
+                Producto productoN;
+                try
+                {
+                    productoN =productosApi.Post(producto);
+                }
+                catch (Exception ex)
+                {
+                    return BadRequest(ex.Message);
+                }
+
+                return StatusCode(201, productoN);
+            }
+
+
+        
 
         // PUT api/<ValuesController>/5
         [HttpPut("{id}")]

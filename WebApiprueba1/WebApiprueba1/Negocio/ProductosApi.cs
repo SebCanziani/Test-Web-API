@@ -15,8 +15,13 @@
             return producto;
 
         }
-        
-      
+
+        public Producto Post(Producto producto)
+        {
+            producto.Id = Datos.List.Count + 1;
+            Datos.List.Add(producto);
+            return producto;
+        }
 
     }
 }
