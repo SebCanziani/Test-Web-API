@@ -25,14 +25,14 @@ namespace WebApiprueba1
 
                 if (productos == null || !productos.Any())
                 {
-                    return NoContent(); // 204 No Content no hay productos
+                    return NoContent(); 
                 }
 
-                return Ok(productos); // 200 OK
+                return Ok(productos); 
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message); // Devuelve 400 Bad Request con el mensaje de la excepción
+                return BadRequest(ex.Message); 
             }
         }
 
@@ -65,7 +65,7 @@ namespace WebApiprueba1
                 Producto productoN;
                 try
                 {
-                    productoN =productosApi.Post(producto);
+                    productoN = productosApi.Post(producto);
                 }
                 catch (Exception ex)
                 {
@@ -76,18 +76,32 @@ namespace WebApiprueba1
             }
 
 
-        
+
 
         // PUT api/<ValuesController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public IActionResult Put(int id, [FromBody] Producto product)
         {
-        }
+            try
+            {
+                product.Id = id;
+                var productoActualizado = api.Put(product);
+                if (productoActualizado == null)
+                {
+                    return NotFound(); // 404 Not Found si el producto no existe para actualizar
+                }
+                return Ok(productoActualizado); // 200 OK si se actualiza correctamente
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message); // Devuelve 400 Bad Request con el mensaje de la excepción
+            }
 
-        // DELETE api/<ValuesController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+        }
+            // DELETE api/<ValuesController>/5
+            [HttpDelete("{id}")]
+                public void Delete(int id)
+                {
+                }
         }
     }
-}

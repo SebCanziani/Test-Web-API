@@ -23,5 +23,18 @@
             return producto;
         }
 
+        public Producto Put(Producto prod)
+        {
+            var product = Datos.List.FirstOrDefault(item => item.Id == prod.Id);
+            if (product == null)
+            {
+                return new Producto(-1, "","");
+            }
+            Datos.List.Remove(product);
+            Datos.List.Add(prod);
+            return prod;
+        }
+
+
     }
 }
