@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {}
+    "C:\\Users\\LN\\Desktop\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {
+    "C:\\Users\\LN\\Desktop\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "C:\\Users\\LN\\Desktop\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
+        "projectPath": "C:\\Users\\LN\\Desktop\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
         "packagesPath": "C:\\Users\\LN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LN\\Desktop\\git seba\\MetodoGet\\WebApiprueba1\\WebApiprueba1\\Negocio\\obj\\",
+        "outputPath": "C:\\Users\\LN\\Desktop\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
             "NLog": {
               "target": "Package",
               "version": "[5.3.3, )"

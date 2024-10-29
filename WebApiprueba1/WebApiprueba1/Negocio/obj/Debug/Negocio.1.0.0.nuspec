@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Negocio</id>
+    <version>1.0.0</version>
+    <authors>Negocio</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Dapper" version="2.1.35" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="9.1.0" exclude="Build,Analyzers" />
+        <dependency id="NLog" version="5.3.3" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="111.4.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\LN\Desktop\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\bin\Debug\net7.0\Negocio.dll" target="lib\net7.0\Negocio.dll" />
+  </files>
+</package>

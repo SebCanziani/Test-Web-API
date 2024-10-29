@@ -3,18 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Negocio.Modelos;
 
 namespace Negocio
 {
     internal class Datos
     {
-        public static List<Producto> List = new List<Producto>()
+        public static List<Producto> prodlist = new List<Producto>()
         {
-            new Producto() { Id = 1, Description = "verde", Name = "marcos" }, 
+            new Producto(1, "verde", "marcos","casero",233),
             
-            new Producto() { Id = 14, Description = "rosa", Name = "juliana" },
+            new Producto(14, "rosa", "juliana","casero", 4055),
 
-             new Producto() { Id = 33, Description = "azul", Name = "jose" },
+             new Producto(33, "azul", "jose", "industrial", 755),
 
         };
 
