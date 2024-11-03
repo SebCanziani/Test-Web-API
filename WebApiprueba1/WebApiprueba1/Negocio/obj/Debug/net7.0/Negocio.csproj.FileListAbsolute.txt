@@ -58,3 +58,15 @@ C:\Users\LN\Desktop\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\n
 C:\Users\LN\Desktop\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\refint\Negocio.dll
 C:\Users\LN\Desktop\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.pdb
 C:\Users\LN\Desktop\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\ref\Negocio.dll
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\bin\Debug\net7.0\Negocio.deps.json
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\bin\Debug\net7.0\Negocio.dll
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\bin\Debug\net7.0\Negocio.pdb
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.AssemblyInfo.cs
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.dll
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\refint\Negocio.dll
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.pdb
+C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\ref\Negocio.dll

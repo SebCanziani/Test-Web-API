@@ -34,9 +34,9 @@ namespace Negocio
             {
                 myConn.Open();
 
-                string sql = "SELECT Category FROM Categories*";
+                string sql = "SELECT Category FROM Categories";
 
-                listaprod = myConn.Query <string> (sql).ToList();
+                listaprod = myConn.Query<string>(sql).ToList();
             }
             return listaprod;
         }
