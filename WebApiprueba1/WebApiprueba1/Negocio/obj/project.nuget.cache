@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M2ijodZ3gvRQRObzE9TnLxEZuoQhwOni/Q/ll27LGQtDx79QFuilRWNORUFpcnZL6SCP8doMV03iVjypCvxEQg==",
+  "dgSpecHash": "cLzGJuF1GzbPpp9dwK5Am+mM/xLFWq+5Lr74SXRienc2+pfhN1PAbiudZpprZbM9UA/CU+amw45s+dxR35dVXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebic\\OneDrive\\Escritorio\\Test-Web-API\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
+  "projectFilePath": "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebic\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\sebic\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Negocio
-build_property.ProjectDir = C:\Users\sebic\OneDrive\Escritorio\Test-Web-API\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\
+build_property.ProjectDir = C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\
