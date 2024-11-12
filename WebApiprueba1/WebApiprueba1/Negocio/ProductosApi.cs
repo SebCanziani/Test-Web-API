@@ -9,9 +9,9 @@ namespace Negocio
     public class ProductosApi
     {
 
-        private const string connStr = "Server=sql10.freemysqlhosting.net;Database=sql10741376;Uid=sql10741376;Pwd=vqRiz5UenI;";
+        private const string connStr = "Server=db4free.net;Database=lasnieves110424;Uid=lasnieves110424;Pwd=lasnieves110424;";
 
-         List<Producto> productos = new List<Producto>();
+        List<Producto> productos = new List<Producto>();
 
         public List<Producto> GetAll () {
 
@@ -42,17 +42,26 @@ namespace Negocio
         }
 
 
+        
+
+      
+
+      
+            public Producto GetById(int _id)
+            {
+
+            using (MySqlConnection conn = new MySqlConnection(connStr)) { 
+
+                conn.Open();
+                string sql = "SELECT Id,Description,Title,Price FROM Products where id = @id";
+                Producto producto = conn.QueryFirst<Producto>(sql, new { id = _id });
+
+                return producto;
+            }
+
+             }
+
         /*
-
-        hola
-
-        public Producto GetById (int id)
-        {
-            var producto = Datos.prodlist.FirstOrDefault(item => item.Id == id);
-
-            return producto;
-
-        }
 
         public Producto Post(Producto producto)
         {

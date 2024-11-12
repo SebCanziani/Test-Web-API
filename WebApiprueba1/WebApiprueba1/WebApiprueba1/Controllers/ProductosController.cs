@@ -39,7 +39,7 @@ namespace WebApiprueba1.Controllers
 
 
 
-        /*
+    
 
        // GET api/<ValuesController>/5
        [HttpGet("{id}")]
@@ -60,7 +60,7 @@ namespace WebApiprueba1.Controllers
                return BadRequest(ex.Message);
            }
        }
-
+            /*
 
        // POST api/<ValuesController>
        [HttpPost]

@@ -26,7 +26,7 @@ namespace Negocio.Modelos
         public string Category { get; set; }
 
 
-
+        public  Producto() { }
         public Producto(int id, string title, string description , string category ,decimal price)
         {
             Id = id;
