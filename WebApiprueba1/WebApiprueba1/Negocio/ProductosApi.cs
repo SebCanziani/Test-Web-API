@@ -61,15 +61,25 @@ namespace Negocio
 
              }
 
-        /*
+        
 
         public Producto Post(Producto producto)
         {
-            producto.Id = Datos.prodlist.Count + 1;
-            Datos.prodlist.Add(producto);
+            //producto.Id = Datos.prodlist.Count + 1;
+            //Datos.prodlist.Add(producto);
+            //return producto;
+
+            using (MySqlConnection conn = new MySqlConnection(connStr))
+            {
+                conn.Open();
+                MySqlCommand cmd = conn.CreateCommand();
+               string sql = "INSERT INTO Products (Description,Title,Category,Price) VALUES(@Description,@Title,@Category,@Price)";
+                conn.Execute(sql , producto);
+            }
+            
             return producto;
         }
-
+        /*
         public Producto Put(Producto prod)
         {
             var product = Datos.prodlist.FirstOrDefault(item => item.Id == prod.Id);

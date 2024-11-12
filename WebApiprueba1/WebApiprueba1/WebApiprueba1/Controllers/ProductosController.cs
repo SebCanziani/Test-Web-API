@@ -60,7 +60,7 @@ namespace WebApiprueba1.Controllers
                return BadRequest(ex.Message);
            }
        }
-            /*
+          
 
        // POST api/<ValuesController>
        [HttpPost]
@@ -81,7 +81,7 @@ namespace WebApiprueba1.Controllers
        }
 
 
-
+        /*
 
        // PUT api/<ValuesController>/5
        [HttpPut("{id}")]
