@@ -79,19 +79,31 @@ namespace Negocio
             
             return producto;
         }
-        /*
-        public Producto Put(Producto prod)
+       
+        public Producto Put(Producto producto)
         {
-            var product = Datos.prodlist.FirstOrDefault(item => item.Id == prod.Id);
-            if (product == null)
-            {
-                return new Producto(-1, "","");
-            }
-            Datos.prodlist.Remove(product);
-            Datos.prodlist.Add(prod);
-            return prod;
-        }
+            using (MySqlConnection conn = new MySqlConnection(connStr))
+            { 
+                conn.Open();
+                string sql = "update Products set description=@description,title=@title,category=@category ,price = @price  where id = @id";
+                conn.Execute(sql, producto);
 
+
+
+            }
+        return producto;
+
+
+            //var product = Datos.prodlist.FirstOrDefault(item => item.Id == prod.Id);
+            //if (product == null)
+            //{
+            //    return new Producto(-1, "","");
+            //}
+            //Datos.prodlist.Remove(product);
+            //Datos.prodlist.Add(prod);
+            //return prod;
+        }
+        /*
 
         public int Delete(int id)
         {
