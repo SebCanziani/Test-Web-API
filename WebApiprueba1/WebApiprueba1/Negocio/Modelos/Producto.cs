@@ -27,6 +27,7 @@ namespace Negocio.Modelos
 
 
         public  Producto() { }
+
         public Producto(int id, string title, string description , string category ,decimal price)
         {
             Id = id;

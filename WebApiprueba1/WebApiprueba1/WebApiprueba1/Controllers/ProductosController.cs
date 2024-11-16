@@ -93,15 +93,15 @@ namespace WebApiprueba1.Controllers
                 var productoActualizado = productosApi.Put(product);
                 if (productoActualizado == null)
                 {
-                    return NotFound(); // 404 Not Found si el producto no existe para actualizar
+                    return NotFound(); 
                 }
-                return Ok(productoActualizado); // 200 OK si se actualiza correctamente
+                return Ok(productoActualizado); 
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message); // Devuelve 400 Bad Request con el mensaje de la excepción
+                return BadRequest(ex.Message); 
             }
-            /*
+           
     }
     // DELETE api/<ValuesController>/5
     [HttpDelete("{id}")]
@@ -112,20 +112,20 @@ namespace WebApiprueba1.Controllers
         {
             var eliminado = productosApi.Delete(id);
 
-            if (eliminado == 0) // Si no se borró nada, eliminado debería ser 0.
+            if (eliminado == 0) 
             {
-                return NotFound(); // 404 Not Found si el producto no existe para eliminar
+                return NotFound(); 
             }
 
-            return NoContent(); // 204 No Content si funcionó correctamente
+            return NoContent(); 
         }
         catch (Exception ex)
         {
-            return BadRequest(ex.Message); // Devuelve 400 Bad Request con el mensaje de la excepción
+            return BadRequest(ex.Message); 
         }
     }
 
-     */
+     
         }
     }
-}
+

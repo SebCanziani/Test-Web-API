@@ -65,9 +65,7 @@ namespace Negocio
 
         public Producto Post(Producto producto)
         {
-            //producto.Id = Datos.prodlist.Count + 1;
-            //Datos.prodlist.Add(producto);
-            //return producto;
+          
 
             using (MySqlConnection conn = new MySqlConnection(connStr))
             {
@@ -94,23 +92,25 @@ namespace Negocio
         return producto;
 
 
-            //var product = Datos.prodlist.FirstOrDefault(item => item.Id == prod.Id);
-            //if (product == null)
-            //{
-            //    return new Producto(-1, "","");
-            //}
-            //Datos.prodlist.Remove(product);
-            //Datos.prodlist.Add(prod);
-            //return prod;
+   
         }
-        /*
+       
 
         public int Delete(int id)
         {
-            return Datos.prodlist.RemoveAll(item => item.Id == id);
+            using (MySqlConnection connection = new MySqlConnection(connStr))
+            {
+                connection.Open();
+                MySqlCommand cmd = connection.CreateCommand();
+                cmd.CommandText = "DELETE FROM Products WHERE Id = @id";
+                cmd.Parameters.AddWithValue("@id", id);
+
+                int resultado = cmd.ExecuteNonQuery();
+                return resultado;
+            }
         }
 
-         */
+         
 
 
     }

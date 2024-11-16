@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApi.csproj": {}
+    "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {
+    "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
-        "packagesPath": "C:\\Users\\LN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\obj\\",
+        "projectPath": "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj",
+        "packagesPath": "C:\\Users\\sebic\\.nuget\\packages\\",
+        "outputPath": "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,21 +77,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApi.csproj": {
+    "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApi.csproj",
+        "projectUniqueName": "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\LN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\obj\\",
+        "projectPath": "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\sebic\\.nuget\\packages\\",
+        "outputPath": "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\WebApiprueba1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,8 +109,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {
-                "projectPath": "C:\\Users\\LN\\Desktop\\TWA\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj"
+              "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj": {
+                "projectPath": "C:\\Test-Web-API\\WebApiprueba1\\WebApiprueba1\\Negocio\\Negocio.csproj"
               }
             }
           }
@@ -153,7 +161,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

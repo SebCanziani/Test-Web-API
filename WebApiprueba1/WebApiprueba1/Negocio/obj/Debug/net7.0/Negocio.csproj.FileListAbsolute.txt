@@ -82,3 +82,15 @@ C:\Users\LN\Desktop\TWA\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Deb
 C:\Users\LN\Desktop\TWA\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\refint\Negocio.dll
 C:\Users\LN\Desktop\TWA\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.pdb
 C:\Users\LN\Desktop\TWA\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\ref\Negocio.dll
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\bin\Debug\net7.0\Negocio.deps.json
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\bin\Debug\net7.0\Negocio.dll
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\bin\Debug\net7.0\Negocio.pdb
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.csproj.AssemblyReference.cache
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.AssemblyInfoInputs.cache
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.AssemblyInfo.cs
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.dll
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\refint\Negocio.dll
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\Negocio.pdb
+C:\Test-Web-API\WebApiprueba1\WebApiprueba1\Negocio\obj\Debug\net7.0\ref\Negocio.dll
